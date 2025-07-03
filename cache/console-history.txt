@@ -1,0 +1,14 @@
+balc
+var balc = await contract.balanceOf(add[0])
+const add = await ethers.getSigners();
+var balc = await contract.balanceOf(owner[0])
+const [owner] = await ethers.getSigners();
+const contract = await factory.deploy();
+var factory = await ethers.getContractFactory("Ter")
+.exit
+var factory = await ethers.getContractFactory("Ter”)
+.exit
+const ter = await ethers.getContractFactory("Ter”)
+const ter = await ethers.getContractFactory("Ter”);
+.exit
+const ter = await ethers.getContractFactory("Ter”);
